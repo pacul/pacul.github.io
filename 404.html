@@ -2,7 +2,6 @@
 layout: default
 published: true
 ---
-
 <style type="text/css" media="screen">
   #container {
     margin:10px auto;
@@ -88,7 +87,8 @@ window.onload = function(e){
     var next_url = url_baru[url_path];
     var new_url = window.location.origin + next_url;
     document.getElementById('container').innerHTML = 'Halaman sudah berganti alamat ke <br> <a href="' + new_url + '">' + new_url + '</a><br> Halaman akan segera dialihkan';
-    setTimeout(function(){window.location.replace(next_url);}, 2000);
+    window.location.replace(next_url);
   }
 };
+///*setTimeout(function(){window.location.replace(next_url);}, 2000);*/
 </script>
