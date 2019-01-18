@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2019-01-14 15:23:31 +0700'
 categories:
-  - Dimensi Tiga
+  - Geometri
 tags: Materi
 permalink: materi-kubus.html
 title: Kubus
