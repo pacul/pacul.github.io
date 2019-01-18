@@ -170,4 +170,4 @@ Diberikan fungsi $f(x)$, maka :
 
 Untuk contoh latihan soal dan pembahasannya di [soal turunan trigonometri]({{site.baseurl}}/soal-turunan-3-trigonometri.html) yah….
 
-Pembaca yang bijak selalu meninggalkan jejak,hehehe….
+
