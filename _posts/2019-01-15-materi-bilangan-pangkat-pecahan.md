@@ -89,4 +89,4 @@ Latihan soal Bilangan Pangkat Pecahan :
 
 semoga dapat menjadi bahan belajar, selamat mencoba.
 
-Color : ${\\color{Red} 2}\\sqrt{5}+{\\color{Red} 3}\\sqrt{5}-\\sqrt{5}=({\\color{Red} 2}+{\\color{Red} 3}-{\\color{Red} 1})\\sqrt{5}={\\color{Red} 4}\\sqrt{5}$ tml
+
