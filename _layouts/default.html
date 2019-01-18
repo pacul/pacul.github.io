@@ -4,7 +4,7 @@
 
 
     <title>{% if page.title %}{{ page.title }} | {{site.name}} {% else %} {{site.name}} {% endif %}</title>
-    <meta name="description" content="{% if page.description %} {{ page.description }} {% elsif page.content %} {{ page.content | strip_html | truncatewords: 20 }} {% else %} {{ site.description }}  {% endif %}">
+    <meta name="description" content="{% if page.description %} {{ page.description }} {% else %} {{ site.description }} {% endif %}">
     <meta charset="utf-8" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
