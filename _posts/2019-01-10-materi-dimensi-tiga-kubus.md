@@ -13,7 +13,7 @@ published: true
 
 Materi Dimensi Tiga mencakup tentang jarak, sudut pada bangun ruang.
 
-Untuk itulah kita wajib tau tiap bangun ruang . Target kita yang pertama adalah Kubus . Pasti dengar namanya saja udah bisa membayangkan bentuknya kan… ?
+Untuk itulah kita wajib tau tiap bangun ruang . Target kita yang pertama adalah Kubus . Pasti dengar namanya saja udah bisa membayangkan bentuknya kan ?
 
 Nah, mari kita kupas tentang sifat-sifat si Kubus ini !
 
