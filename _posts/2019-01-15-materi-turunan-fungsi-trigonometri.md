@@ -156,10 +156,10 @@ Diberikan fungsi $f(x)$, maka :
     $y=sin\\:x$
     
     
-    $y'=cos\\:x$ | $=\\:sin(\\frac{\\pi}{2}+x)$ | $=\\:sin(x+\\frac{\\pi}{2}.1)$    
-    $y''=-sin\\:x$ | $=\\:sin({\\pi}+x)$ | $=\\:sin(x+\\frac{\\pi}{2}.2)$    
-    $y'''=-cos\\:x$ | $=\\:sin(\\frac{3.\\pi}{2}+x)$ | $=\\:sin(x+\\frac{\\pi}{2}.3)$    
-    $y''''=sin\\:x $ | $=\\:sin({2.\\pi}+x)$ | $=\\:sin(x+\\frac{\\pi}{2}.4)$    
+    $y'=cos\\:x$     | $=\\:sin(\\frac{\\pi}{2}+x)$   | $=\\:sin(x+\\frac{\\pi}{2}.1)$    
+    $y''=-sin\\:x$   | $=\\:sin({\\pi}+x)$            | $=\\:sin(x+\\frac{\\pi}{2}.2)$    
+    $y'''=-cos\\:x$  | $=\\:sin(\\frac{3.\\pi}{2}+x)$ | $=\\:sin(x+\\frac{\\pi}{2}.3)$    
+    $y''''=sin\\:x $ | $=\\:sin({2.\\pi}+x)$          | $=\\:sin(x+\\frac{\\pi}{2}.4)$    
     ... | ... | ...    
     ... | ... | ...  
     dst | dst | dst
