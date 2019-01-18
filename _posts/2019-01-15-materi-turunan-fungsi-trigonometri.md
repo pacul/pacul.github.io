@@ -58,6 +58,8 @@ Rumus rumus yang dipakai di turunan fungsi aljabar, berlaku pula untuk mengerjak
     \\begin{array}{rcl}f'(x) & = & u'.v+v'.u\\\\ & = & 2x.sin\\:x+cos\\:x.(x^2+2)\\\\ & = & 2x\\:sin\\:x+x^2.cos\\:x+2\\:cos\\:x\\end{array}
     
 
+
+
 Turunan ke-n
 ------------
 
