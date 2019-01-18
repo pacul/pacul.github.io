@@ -6,4 +6,4 @@ permalink: /about.html
 
 {{ site.description }}
 
-Kunjungi juga channel youtube MeetMath di ![https://www.youtube.com/meetmath](https://www.youtube.com/meetmath)
+Kunjungi juga channel youtube MeetMath di [https://www.youtube.com/meetmath](https://www.youtube.com/meetmath)
