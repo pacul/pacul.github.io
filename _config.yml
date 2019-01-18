@@ -1,0 +1,60 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+name: MeetMath
+email: masmo@meetmath.com
+description: >- # this means to ignore newlines until "baseurl:"
+  MeetMath adalah website pembelajaran matematika untuk tingak sekolah SMA. Terdapat materi, contoh soal, maupun soal dan pembahasan. Terdapat juga content dalam bentuk video.
+#baseurl: "/meetmath" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.meetmath.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: meetmath
+github_username:  pacul
+#permalink: /:tags-:title:output_ext
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+future: true
+google_analytics: "UA-22413869-1"
+
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'https://pacul.github.io'
+  relativeLinks: 'https://pacul.github.io/links.jsonp'
+  #siteurl: 'http://pacul.github.io/meetmath/'
+  #relativeLinks: 'http://pacul.github.io/meetmath/links.jsonp'
+  media: 'media'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+
+
+
+  # Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

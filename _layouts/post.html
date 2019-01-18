@@ -1,0 +1,57 @@
+---
+layout: default
+---
+<article>
+
+<h1 class="entry-title">{{ page.title }}</h1> 
+
+<!-- Post Content -->
+<div class="article-content">
+	{{content}}
+</div>
+
+</article>
+{% assign this_category = page.categories[0] %}
+
+{% if site.categories[this_category].size > 1 %}
+<aside class="related">
+<h2>Materi/Soal terkait :</h2>
+<ul>
+
+    {% for category in site.categories  %}
+      {% for post in category[1]  %}
+          {% for category in post.categories %}
+          {% if category == this_category and post.title != page.title %}
+          <li class="article-title">
+            <a class="article-link" href="{{ site.baseurl }}{{ post.url }}" title="Permalink to {{ post.title|striptags }}">{{ post.title }}</a>
+          </li>
+          {% endif %}
+          {% endfor %}
+      {% endfor %}
+    {% endfor %}
+
+</ul>
+</aside>
+{% endif %}
+
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/javascript">MathJax.Hub.Config({
+        tex2jax: {inlineMath: [['$','$']], displayMath: [['$$','$$']], processEscapes: true},
+        config: ["MMLorHTML.js"],
+        jax: ["input/TeX", "output/HTML-CSS", "output/NativeMML"],
+        extensions: ["MathMenu.js", "MathZoom.js"],
+        displayAlign: "left",
+        TeX : { extensions: ["color.js"]},
+        styles: {
+             ".MathJax": {
+               color: "rgb(12, 0, 142"
+              }
+          },
+        menuSettings: {
+          zoom: "Hover"
+            }
+      });
+</script>
+
+
