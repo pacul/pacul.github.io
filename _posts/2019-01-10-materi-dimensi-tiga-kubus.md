@@ -3,7 +3,7 @@ layout: post
 title: Dimensi Tiga Kubus
 date: '2019-01-14 15:24:31 +0700'
 categories:
-  - Dimensi Tiga
+  - Geometri
 tags: Materi
 permalink: materi-dimensi-tiga-kubus.html
 published: true
