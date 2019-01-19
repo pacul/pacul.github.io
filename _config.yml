@@ -16,7 +16,7 @@
 name: MeetMath
 email: masmo@meetmath.com
 description: >- # this means to ignore newlines until "baseurl:"
-  MeetMath adalah website pembelajaran matematika. Terdapat materi, contoh soal, maupun soal dan pembahasan. Terdapat juga content dalam bentuk video.
+MeetMath adalah website pembelajaran matematika. Terdapat materi, contoh soal, maupun soal dan pembahasan. Terdapat juga content dalam bentuk video.
 #baseurl: "/meetmath" # the subpath of your site, e.g. /blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.meetmath.com" # the base hostname & protocol for your site, e.g. http://example.com

@@ -1,8 +1,6 @@
 <!doctype html>
 <html lang="en">
 <head>
-
-
     <title>{% if page.title %}{{ page.title }} | {{site.name}} {% else %} {{site.name}} {% endif %}</title>
     {%if page.title == 'Home' or page.title == 'About' %}    
     <meta name="description" content="{{ site.description }}">
@@ -19,12 +17,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta property="og:site_name" content="{{site.name}}">
     <meta property="og:title" content="{% if page.title %}{{ page.title }} | {{site.name}} {% else %} {{site.name}} {% endif %}">
-    <meta property="og:image" content="{{ site.baseurl }}/assets/icons/favicon.png">
+    <meta property="og:image" content="{{ site.baseurl }}/assets/icons/meetmath-logo.png">
     <meta property="og:image:type" content="image/png">
     <meta property="og:image:width" content="108">
     <meta property="og:image:height" content="108">
-    <link rel="shortcut icon" href="{{ site.baseurl }}/assets/icons/favicon.png" type="image/png"/>
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/fictoan.css" />
+    <link rel="shortcut icon" href="{{ site.baseurl }}/assets/icons/meetmath-logo.png" type="image/png"/>
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.min.css" />
 </head>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -44,8 +42,6 @@
             <img class="icon-small" src="{{ site.baseurl }}/assets/icons/icon-menu.svg">
         </label>
         <input type="checkbox" id="menu-toggle">
-
-
         <nav class="header-links">
             <ul>       
                 {% assign tags_list = site.tags %}  
@@ -64,18 +60,12 @@
                   {% endif %}
                 {% assign tags_list = nil %}
 
-
             </ul>
         </nav>
     </header>
-
-    {{ content }}
-    
+    {{ content }}    
     <footer>
         <div class="text-tiny">&copy; tentang <a href="{{ site.baseurl }}/about.html">MeetMath</a></div>
     </footer>
-
-
-
 </body>
 </html>
