@@ -126,7 +126,8 @@ Latihan soal bangun ruang yang berkaitan dengan jarak dan sudut
     
     jawab :
     
-    ![dimensi-tiga-kubus-4.jpg]({{site.baseurl}}/media/dimensi-tiga-kubus-4.jpg)
+    ![kubus-5.jpg]({{site.baseurl}}/media/kubus-5.jpg)
+
     
     *   titik A dan garis EC berada dalam satu bidang yaitu segitiga AEC
     *   perhatikan bahwa AE adalah rusuk, kita misalkan $AE = r$ , sedangkan AC adalah diagonal sisi maka kita misalkan $AC = r\\sqrt 2$
