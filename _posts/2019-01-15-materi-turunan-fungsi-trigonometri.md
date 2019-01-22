@@ -170,6 +170,6 @@ Diberikan fungsi $f(x)$, maka :
     sehingga $\\large y^n=\\:sin(x+\\frac{\\pi}{2}.n)$ terbukti
     
 
-Untuk contoh latihan soal dan pembahasannya di [Sial 3 Turunan Trigonometri]({{site.baseurl}}/soal-3-turunan-trigonometri.html) yah….
+Untuk contoh latihan soal dan pembahasannya di [Soal 3 Turunan Trigonometri]({{site.baseurl}}/soal-3-turunan-trigonometri.html) yah….
 
 
