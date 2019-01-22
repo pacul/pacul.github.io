@@ -23,7 +23,7 @@ url: "https://www.meetmath.com" # the base hostname & protocol for your site, e.
 twitter_username: meetmath
 github_username: pacul
 #permalink: /:tags-:title:output_ext
-show_comments: true
+show_comments: false
 show_ads: true
 
 
