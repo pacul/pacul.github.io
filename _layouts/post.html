@@ -30,7 +30,11 @@ layout: default
     {% endfor %}
 </ul>
 </aside>
+
+
 {% endif %}
+
+
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 <script type="text/javascript">MathJax.Hub.Config({
         tex2jax: {inlineMath: [['$','$']], displayMath: [['$$','$$']], processEscapes: true},
@@ -50,6 +54,18 @@ layout: default
       });
 </script>
 
+{% if site.show_ads %}
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2960681782930244"
+     data-ad-slot="9248061601"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+{% endif %}
 
 {% if site.show_comments %}
 <div id="graphcomment"></div>
