@@ -24,6 +24,8 @@ twitter_username: meetmath
 github_username: pacul
 #permalink: /:tags-:title:output_ext
 show_comments: true
+show_ads: true
+
 
 # Build settings
 markdown: kramdown
