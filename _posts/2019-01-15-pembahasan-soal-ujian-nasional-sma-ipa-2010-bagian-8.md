@@ -7,6 +7,7 @@ categories:
   - Ujian Nasional
 tags: Soal
 permalink: pembahasan-soal-ujian-nasional-sma-ipa-2010-bagian-8.html
+redirect_from: "/381341-pembahasansoal-pembahasan-soal-ujian-nasional-sma-ipa-2010-bagian-8.html"
 ---
 Berikut ini adalah lanjutan [Pembahasan Soal Ujian Nasional SMA IPA 2010 Bagian 7]({{site.baseurl}}/pembahasan-soal-ujian-nasional-sma-ipa-2010-bagian-7.html)
 

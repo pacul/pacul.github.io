@@ -7,6 +7,7 @@ categories:
 tags: Soal
 permalink: pembahasan-soal-ujian-nasional-sma-ipa-2010-bagian-2.html
 title: Pembahasan Soal Ujian Nasional SMA IPA 2010 Bagian 2
+redirect_from: "/47819-pembahasansoal-pembahasan-soal-ujian-nasional-sma-ipa-2010-bagian-2.html"
 ---
 Berikut ini adalah lanjutan [Pembahasan Soal Ujian Nasional SMA IPA 2010 Bagian 1]({{site.baseurl}}/pembahasan-soal-ujian-nasional-sma-ipa-2010-bagian-1.html)
 

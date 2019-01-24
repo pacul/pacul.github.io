@@ -7,6 +7,7 @@ categories:
 tags: Soal
 permalink: soal-2-turunan-aljabar.html
 title: Soal 2 Turunan Aljabar
+redirect_from: "/22999-pembahasansoal-soal-turunan-2.html"
 ---
 Setelah mencoba soal turunan bagian pertama, mari kita coba latihan soal turunan dan pembahasan soal turunan yang lain yuk ……..jangan lupa rumus-rumus turunan kemarin yah !!!
 

@@ -7,6 +7,7 @@ categories:
 tags: Soal
 permalink: soal-turunan.html
 title: Contoh Soal Turunan
+redirect_from: "/48845-pembahasansoal-tanya-jawab.html"
 ---
 Berikut ini adalah jawaban dari pertanyaan-pertanyaan yang masuk
 

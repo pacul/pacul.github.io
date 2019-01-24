@@ -7,6 +7,7 @@ categories:
 tags: Materi
 permalink: materi-komposisi-fungsi.html
 title: Komposisi Fungsi
+redirect_from: "/001297-materi-komposisi-fungsi.html"
 ---
 Komposisi fungsi merupakan penggabungan operasi dua fungsi secara berurutan yang akan menghasilkan sebuah fungsi baru.
 

@@ -7,6 +7,7 @@ categories:
 tags: Soal
 permalink: soal-3-turunan-trigonometri.html
 title: Soal 3 Turunan Trigonometri
+redirect_from: "/391086-pembahasansoal-soal-turunan-3-trigonometri.html"
 ---
 Soal dan pembahasan dibawah merupakan lanjutan dari soal turunan sebelumnya, namun dikhususkan untuk soal-soal turunan trigonometri. Jangan sampai lupa materi turunan trigonometri pada posting sebelumnya yah.
 

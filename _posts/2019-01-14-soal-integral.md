@@ -7,6 +7,7 @@ categories:
 tags: Soal
 permalink: soal-integral.html
 title: Soal Integral
+redirect_from: "/10438-pembahasansoal-soal-integral.html"
 ---
 Soal-soal ini ditujukan untuk murid yang request sedang belajar menjelang UN, karena mendadak, jadi masih sedikit soal dan pembahsannya. Untuk materi integral menyusul yah…kalo ada soal yang masih belum jelas, boleh langsung di comment atau kirim email…sip!
 

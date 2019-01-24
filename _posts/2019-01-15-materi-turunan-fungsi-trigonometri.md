@@ -7,6 +7,7 @@ categories:
 tags: Materi
 permalink: materi-turunan-fungsi-trigonometri.html
 title: Turunan Fungsi Trigonometri
+redirect_from: "/18563-materi-turunan-fungsi-trigonometri.html"
 ---
 [Turunan fungsi aljabar]({{site.baseurl}}/materi-turunan-fungsi-aljabar.html) telah kalian kuasai, bagaimana dengan turunan fungsi trigonometri?
 

@@ -7,6 +7,7 @@ categories:
 tags: Materi
 title: Bilangan Pangkat
 permalink: materi-bilangan-pangkat.html
+redirect_from: "/311122-materi-bilangan-pangkat.html"
 ---
 ![bilangan-pangkat.jpg]({{site.baseurl}}/media/bilangan-pangkat.jpg)
 

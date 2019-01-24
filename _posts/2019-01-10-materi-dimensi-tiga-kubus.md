@@ -7,6 +7,7 @@ categories:
 tags: Materi
 permalink: materi-dimensi-tiga-kubus.html
 published: true
+redirect_from: "/461063-materi-dimensi-tiga-kubus.html"
 ---
 
 

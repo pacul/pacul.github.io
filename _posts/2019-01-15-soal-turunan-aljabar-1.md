@@ -7,6 +7,7 @@ categories:
 tags: Soal
 permalink: soal-1-turunan-aljabar.html
 title: Soal 1 Turunan Aljabar
+redirect_from: "/38342-pembahasansoal-soal-turunan.html"
 ---
 Soal-soal turunan ini diambil dari soal ujian sekolah, Ebtanas, maupun Ujian Nasional.
 

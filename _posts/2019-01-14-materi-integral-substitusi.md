@@ -7,6 +7,7 @@ categories:
 tags: Materi
 title: Integral Substitusi
 permalink: materi-integral-substitusi.html
+redirect_from: "/161235-materi-integral-subtitusi.html"
 ---
 Yuuuuuuk belajar lagi…!!!!
 

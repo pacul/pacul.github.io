@@ -7,6 +7,7 @@ categories:
 tags: Materi
 title: Logaritma
 permalink: materi-logaritma.html
+redirect_from: "/3551-materi-logaritma.html"
 ---
 Masih ingat dengan bentuk akar dan perpangkatan? Materi logaritma ini akan dengan mudah dikerjakan jika bentuk pangkat telah dipelajari dengan baik. Nah, kita coba dengan memahami notasi logaritma terlebih dulu.
 

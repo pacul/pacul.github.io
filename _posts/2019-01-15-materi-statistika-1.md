@@ -7,6 +7,7 @@ tags: Materi
 title: Statistika Bagian 1
 permalink: materi-statistika-1.html
 published: true
+redirect_from: "/02180-materi-statistika.html"
 
 ---
 Wah, bicara tentang statistika kita akan berkutat dengan kehidupan sehari-hari mulai dari menghitung rata-rata uang saku perhari sampai perhitungan indeks ekonomi global…

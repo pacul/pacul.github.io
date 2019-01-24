@@ -7,6 +7,7 @@ categories:
 tags: Materi
 permalink: materi-kubus.html
 title: Kubus
+redirect_from: "/a-kubus.html"
 ---
 
 

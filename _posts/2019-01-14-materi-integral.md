@@ -7,6 +7,7 @@ categories:
 tags: Materi
 title: Integral
 permalink: materi-integral.html
+redirect_from: "/591210-materi-integral.html"
 ---
 Bagaimana kalau kali ini kita membahas tentang integral….??!! mulai dari integral sederhana,integral subtitusi, integral parsial, integral trigonometri sampai latihan dan contoh soal integral.
 

@@ -7,6 +7,7 @@ categories:
 tags: Materi
 permalink: materi-turunan-fungsi-aljabar.html
 title: Turunan Fungsi Aljabar
+redirect_from: "/3922-materi-turunan-fungsi-aljabar.html"
 ---
 Materi Turunan (derivatif) mencakup materi turunan fungsi aljabar, turunan fungsi trigonometri, gradien garis singgung dan persamaan garis singgung pada suatu kurva tertentu, titik stasioner, fungsi naik dan fungsi turun. Lumayan banyak juga,yah…kita coba mulai dari fungsi aljabar dulu.
 

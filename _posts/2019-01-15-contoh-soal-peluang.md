@@ -7,6 +7,7 @@ categories:
 tags: Soal
 permalink: soal-peluang.html
 title: Contoh Soal Peluang
+redirect_from: "/381128-pembahasansoal-tanya-jawab-2.html"
 ---
 Berikut adalah pertanyaan yang masuk tentang peluang, cekidot :
 

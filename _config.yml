@@ -32,6 +32,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-redirect-from
 future: true
 google_analytics: "UA-22413869-1"
 

@@ -7,6 +7,7 @@ categories:
 tags: Materi
 permalink: materi-bilangan-akar-pangkat-dua-dan-merasionalkan-akar.html
 title: Bilangan Akar Pangkat Dua & Merasionalkan Akar
+redirect_from: "/271169-materi-bilangan-akar-pangkat-dua.html"
 ---
 ![bilangan-pangkat-2.jpg]({{site.baseurl}}/media/bilangan-pangkat-2.jpg)
 

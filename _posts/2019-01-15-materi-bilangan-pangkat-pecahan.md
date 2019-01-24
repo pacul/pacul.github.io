@@ -7,6 +7,7 @@ categories:
 tags: Materi
 permalink: materi-bilangan-pangkat-pecahan.html
 title: Bilangan Pangkat Pecahan
+redirect_from: "/461442-materi-bilangan-pangkat-pecahan.html"
 ---
 Kali ini kita bahas tentang bilangan pangkat tak sebenarnya yuk….
 
