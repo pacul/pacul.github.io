@@ -31,8 +31,8 @@ show_ads: true
 markdown: kramdown
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
   - jekyll-redirect-from
+#- jekyll-sitemap
 future: true
 google_analytics: "UA-22413869-1"
 
