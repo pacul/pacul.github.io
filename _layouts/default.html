@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <title>{% if page.title %}{{ page.title }} | {{site.name}} {% else %} {{site.name}} {% endif %}</title>
-    {%if page.title == 'Home' or page.title == 'About' %}    
+    {%if !page.title or page.title == 'Home' or page.title == 'About' %}    
     <meta name="description" content="{{ site.description }}">
     <meta property="og:description" content="{{ site.description }}">
     {%elsif page.description %}
