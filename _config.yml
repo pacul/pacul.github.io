@@ -33,6 +33,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-sitemap
+  - jekyll-seo-tag
 future: true
 google_analytics: "UA-22413869-1"
 
