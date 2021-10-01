@@ -14,7 +14,7 @@ title: Sifat Logaritma Bagian Pertama
 
 $\color{red}^{a}log\:b^n = n.\:^{a}log\:\:b$
 
-Berikut adalah contoh soal soal sederhana penggunaan sifat logaritma $^{a}log\:b^n = n.\:^{a}log\:\:b$
+Berikut adalah contoh soal soal sederhana penggunaan sifat logaritma $$^{a}log\:b^n = n.\:^{a}log\:\:b$$
 
 $$\begin{align*}1.\;\;^{2}log\;{1} & =& ^{2}log\:2^{0}\\&=&0.\:^{2}log\:2\\&=&0\:.\:1\\&=&0\end{align*}$$
 $$\begin{align*}2.\;\;^{3}log\;{81} & =& ^{3}log\:3^{4}\\&=&4.\:^{3}log\:3\\&=&4.\:1\\&=&4\end{align*}$$
