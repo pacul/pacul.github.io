@@ -30,11 +30,14 @@ ingat $\color{red}\:\frac{1}{a}=a^{-1}$
 
 
 $$\begin{align*}4.\;\;^{2}log\;\frac{1}{16} & =& ^{2}log\:\frac{1}{2^4}\\&=&\:^{2}log\:2^{(-4)}\\&=&(-4).\:^{2}log\:2\\&=&(-4)\:.\:1\\&=&-4\end{align*}$$
+
 $$\begin{align*}5.\;\;^{7}log\;\sqrt{7} & =& ^{7}log\:7^{(\frac{1}{2})}\\&=&(\frac{1}{2}).\:^{7}log\:7\\&=&\frac{1}{2}.\:1\\&=&\frac{1}{2}\end{align*}$$
+
 ingat
 $\color{red}\sqrt{a}=a^{\frac{1}{2}}$
 
 $$\begin{align*}6.\;\;^{3}log\;\sqrt{27} & =& ^{3}log\sqrt{3^3}\\&=&^{3}log\:3^{(\frac{3}{2})}\\&=&(\frac{3}{2}).\:^{3}log\:3\\&=&\frac{3}{2}.\:1\\&=&\frac{3}{2}\end{align*}$$
+
 $$\begin{align*}7.\;\;^{2}log\;\frac{1}{\sqrt{8}} & =& ^{2}log\:\frac{1}{\sqrt{2^3}}\\&=&^{2}log\:\frac{1}{2^{(\frac{3}{2})}}\\&=&^{2}log\:2^{(-\frac{3}{2})}\\&=&(-\frac{3}{2}).\:^{2}log\:2\\&=&-\frac{3}{2}.\:1\\&=&-\frac{3}{2}\end{align*}$$
 
 8. Jika $log\:5=0,699$ maka $\:log\sqrt{5}= ...$ 
