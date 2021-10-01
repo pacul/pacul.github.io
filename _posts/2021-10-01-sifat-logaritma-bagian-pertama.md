@@ -14,6 +14,7 @@ title: Sifat Logaritma Bagian Pertama
 
 $\color{red}^{a}log\:b^n = n.\:^{a}log\:\:b$
 
+$\LARGE {^{a}log\:b=x\:\Leftrightarrow \:a^{x}=b}$
 
 
 
