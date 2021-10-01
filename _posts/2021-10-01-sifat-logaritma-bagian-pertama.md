@@ -11,7 +11,7 @@ title: Sifat Logaritma Bagian Pertama
 ## Logarithm formula
 
 
-
+$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
 $\color{red}^{a}log\:b^n = n.\:^{a}log\:\:b$
 
 $\LARGE {^{a}log\:b=x\:\Leftrightarrow \:a^{x}=b}$
