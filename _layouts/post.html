@@ -40,7 +40,11 @@ layout: default
           extensions: ['tex2jax.js', "MathMenu.js", "MathZoom.js"],
 	  jax: ["input/TeX", "output/HTML-CSS"],
 	  messageStyle: 'none',
-	  tex2jax: {inlineMath: [['$','$']], displayMath: [['$$','$$']], processEscapes: true},
+	  tex2jax: {
+	    inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+	    displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+	    processEscapes: true
+	  },
 	  config: ["MMLorHTML.js"],
 	  TeX: {
 	      extensions: ['AMSmath.js', 'AMSsymbols.js', 'noErrors.js', 'noUndefined.js', 'color.js']
