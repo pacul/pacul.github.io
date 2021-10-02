@@ -35,7 +35,7 @@ $\color{red}^{a}log\ b^n = n. \ ^{a}log \ b$
 Berikut adalah contoh soal soal sederhana penggunaan sifat logaritma $^{a}log\ b^ n = n. \ ^{a}log \ b$
 
 
-\begin{align}1. \ ^{625}log\ {5} &=& \frac{1}{^{5}log\ 625} \\&=&\frac{1}{4}\end{align}
+\begin{align}1. \ ^{625}log\ {5} &=& \frac{1}{^{5}log\ 625} \\\\&=&\frac{1}{4}\end{align}
 
 
 
