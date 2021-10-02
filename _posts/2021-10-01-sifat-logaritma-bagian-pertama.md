@@ -29,7 +29,7 @@ Berikut adalah contoh soal soal sederhana penggunaan sifat logaritma $^{a}log\:b
 \\begin{align}3. \\ ^{5}log \\ \\frac{1}{5} & =& ^{5}log \\ 5^{(-1)}\\\\&=&(-1). \\ ^{5}log \\ 5 \\\\&=&-1. \\ 1 \\\\&=&-1 \\end{align}    
 
       
-ingat $\color{red}\:\frac{1}{a}=a^{-1}$
+ingat $\color{red}\\ \frac{1}{a}=a^{-1}$
 
 
 \\begin{align}4.  \\ ^{2}log \\ \\frac{1}{16} & =& ^{2}log \\ \\frac{1}{2^4} \\\\&=& \\ ^{2}log \\ 2^{(-4)} \\\\&=&(-4). \\ ^{2}log \\ 2 \\\\&=&(-4) \\ . \\ 1 \\\\&=&-4 \\end{align}
