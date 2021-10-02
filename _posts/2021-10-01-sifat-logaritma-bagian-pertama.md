@@ -24,7 +24,7 @@ title: Sifat Logaritma Bagian Pertama
 
 
 
-$\color{red}^{a}log\quad b^n = n.\^{a}log\ b$
+$\color{red}^{a}log\quad b^n = n.\ ^{a}log\ b$
 
 
 
