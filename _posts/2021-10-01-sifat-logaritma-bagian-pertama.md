@@ -48,7 +48,7 @@ Berikut adalah contoh soal soal sederhana penggunaan sifat logaritma $^{a}log\ b
 ingat $\color{red}\:\frac{1}{a}=a^{-1}$
 
 
-$$\begin{align*}4.\;\;^{2}log\;\frac{1}{16} & =& ^{2}log\:\frac{1}{2^4}\\&=&\:^{2}log\:2^{(-4)}\\&=&(-4).\:^{2}log\:2\\&=&(-4)\:.\:1\\&=&-4\end{align*}$$
+\begin{align*}4.\;\;^{2}log\;\frac{1}{16} & =& ^{2}log\:\frac{1}{2^4}\\&=&\:^{2}log\:2^{(-4)}\\&=&(-4).\:^{2}log\:2\\&=&(-4)\:.\:1\\&=&-4\end{align*}$$
 
 $$\begin{align*}5.\;\;^{7}log\;\sqrt{7} & =& ^{7}log\:7^{(\frac{1}{2})}\\&=&(\frac{1}{2}).\:^{7}log\:7\\&=&\frac{1}{2}.\:1\\&=&\frac{1}{2}\end{align*}$$
 
