@@ -15,6 +15,7 @@ title: Sifat Logaritma Bagian Pertama
 
 \begin{align*}1.\;\;^{625}log\;{5} &amp; =&amp; \frac{1}{^{5}log\:625}\\&amp;=&amp;\frac{1}{4}\end{align*}
 
+\begin{align}1.\;\;^{625}log\;{5} & =& \frac{1}{^{5}log\:625}\\&=&\frac{1}{4}\end{align}
 
 ## Logarithm formula
 
