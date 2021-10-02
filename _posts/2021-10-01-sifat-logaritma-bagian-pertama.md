@@ -20,11 +20,12 @@ title: Sifat Logaritma Bagian Pertama
 8 f(x) &= x^2\qquad +3x\qquad +2
 \end{align}
 
+
 ## Logarithm formula
 
 
 
-$\color{red}^{a}log\quad b^n = n.\ ^{a}log\ b$
+$\color{red}^{a}log\quad b^n = n.\ ^{a}log \ b$
 
 
 
