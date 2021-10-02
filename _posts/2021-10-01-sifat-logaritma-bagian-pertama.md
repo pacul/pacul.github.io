@@ -9,31 +9,27 @@ permalink: sifat-logaritma-bagian-pertama.html
 title: Sifat Logaritma Bagian Pertama
 ---
 
-\\begin{align\*}1.\\;\\;^{625}log\\;{5} & =& \\frac{1}{^{5}log\\:625}\\\\&=&\\frac{1}{4}\\end{align\*}
-
-\begin{align*}1.\\;\\;^{625}log\\;{5} & =& \\frac{1}{^{5}log\\:625}\\\\&=&\\frac{1}{4}\end{align*}
-
-\begin{align*}1.\;\;^{625}log\;{5} &amp; =&amp; \frac{1}{^{5}log\:625}\\&amp;=&amp;\frac{1}{4}\end{align*}
-
-\begin{align}1.\;\;^{625}log\;{5} & =& \frac{1}{^{5}log\:625}\\&=&\frac{1}{4}\end{align}
 
 ## Logarithm formula
 
 
-$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
+
 $\color{red}^{a}log\:b^n = n.\:^{a}log\:\:b$
 
-$\LARGE {^{a}log\:b=x\:\Leftrightarrow \:a^{x}=b}$
 
 
 
 Berikut adalah contoh soal soal sederhana penggunaan sifat logaritma $^{a}log\:b^n = n.\:^{a}log\:\:b$
 
-\\begin{align\*}1.\\;\\;^{625}log\;{5} & =& \frac{1}{^{5}log\:625}\\&=&\frac{1}{4}\end{align\*}
 
-\\begin{align\*}2.\;\;^{3}log\;{81} & =& ^{3}log\:3^{4}\\&=&4.\:^{3}log\:3\\&=&4.\:1\\&=&4\end{align\*}$
+\begin{align}1.\;\;^{625}log\;{5} & =& \frac{1}{^{5}log\:625}\\&=&\frac{1}{4}\end{align}
 
-$$\begin{align*}3.\;\;^{5}log\;\frac{1}{5} & =& ^{5}log\:5^{(-1)}\\&=&(-1).\:^{5}log\:5\\&=&-1.\:1\\&=&-1\end{align*}$$
+
+
+\begin{align}2.\;\;^{3}log\;{81} & =& ^{3}log\:3^{4}\\&=&4.\:^{3}log\:3\\&=&4.\:1\\&=&4\end{align}
+
+\begin{align*}3.\;\;^{5}log\;\frac{1}{5} & =& ^{5}log\:5^{(-1)}\\&=&(-1).\:^{5}log\:5\\&=&-1.\:1\\&=&-1\end{align*}
+
 
 
 ingat $\color{red}\:\frac{1}{a}=a^{-1}$
