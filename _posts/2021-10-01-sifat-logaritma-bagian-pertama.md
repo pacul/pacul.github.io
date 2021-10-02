@@ -9,7 +9,7 @@ permalink: sifat-logaritma-bagian-pertama.html
 title: Sifat Logaritma Bagian Pertama
 ---
 
-\begin{align*}
+\begin{align}
 f(x) &= x^2\! +3x\! +2 \\
 f(x) &= x^2+3x+2 \\
 f(x) &= x^2\, +3x\, +2 \\
@@ -18,7 +18,7 @@ f(x) &= x^2\; +3x\; +2 \\
 f(x) &= x^2\ +3x\ +2 \\
 f(x) &= x^2\quad +3x\quad +2 \\
 f(x) &= x^2\qquad +3x\qquad +2
-\end{align*}
+\end{align}
 
 ## Logarithm formula
 
