@@ -37,6 +37,9 @@ Berikut adalah contoh soal soal sederhana penggunaan sifat logaritma $^{a}log\ b
 
 \\begin{align}1. \\ ^{625}log\\ {5} &=& \\frac{1}{^{5}log\\ 625} \\\\&=&\\frac{1}{4}\\end{align}
 
+\\begin{align}2. \\ ^{3}log \\ {81} & =& ^{3}log\\ 3^{4}\\\\&=&4.\\ ^{3}log\\:3 \\\\&=&4.\\:1 \\\\&=&4\end{align}
+
+\\begin{align}3. \\ ^{5}log \\ \\frac{1}{5} & =& ^{5}log \\ 5^{(-1)}\\\\&=&(-1). \\ ^{5}log \\ 5 \\\\&=&-1. \\ 1 \\\\&=&-1 \\end{align}
 
 
 \begin{align}2.\;\;^{3}log\;{81} & =& ^{3}log\:3^{4}\\&=&4.\:^{3}log\:3\\&=&4.\:1\\&=&4\end{align}
