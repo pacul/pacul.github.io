@@ -35,4 +35,3 @@ Jika 2013	2017-2013 = 4 tahun	2+0+1+3 = 6
 Jika 2012	2017-2012 = 5 tahun	2+0+1+2 = 5
 
 Ketemu ya teman teman, jadi Meli lahirnya di tahun 2012 yaaa....
-
